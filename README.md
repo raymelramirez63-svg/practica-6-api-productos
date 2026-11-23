@@ -1,5 +1,5 @@
 # Práctica 6 - API REST de productos
-
+Raymel Alexander Ramirez Sandoval 2025/1970
 ## Cómo ejecutar
 
 ```bash
@@ -19,5 +19,4 @@ El servidor corre en http://localhost:3000
 | PUT    | /productos/:id    | Implementado |
 | DELETE | /productos/:id    | Implementado |
 
-Lee el documento de la práctica para ver los requisitos de cada método.
 
